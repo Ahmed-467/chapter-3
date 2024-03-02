@@ -13,8 +13,17 @@
 
 //qno3
 // Ans//
-var birthYear = 2005 ;
-alert("My birth year " + birthYear + "\nDate type of my ddeclared variable in number" );
-document.write("<h2>My birth year " + birthYear + " Date type of my ddeclared variable in number</h2>");
+// var birthYear = 2005 ;
+// alert("My birth year " + birthYear + "\nDate type of my ddeclared variable in number" );
+// document.write("<h2>My birth year " + birthYear + " Date type of my ddeclared variable in number</h2>");
+
+
+//qno4
+
+document.write("<h2>John Doe ordered 5 T-shirt(s) on XYZ Clothing store</h2>");
+
+
+//qno5
+
 
 
